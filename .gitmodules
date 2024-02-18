@@ -3,4 +3,4 @@
 	url = https://github.com/minerkg/E-BlocFrontEnd.git
 [submodule "backEnd"]
 	path = backEnd
-	url = ./backEnd
+	url = https://github.com/minerkg/E-BlocBackEnd.git
