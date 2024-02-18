@@ -1,6 +1,6 @@
 [submodule "frontEnd"]
 	path = frontEnd
-	url = ./frontEnd
+	url = https://github.com/minerkg/E-BlocFrontEnd.git
 [submodule "backEnd"]
 	path = backEnd
 	url = ./backEnd
